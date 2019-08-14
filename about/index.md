@@ -1,4 +1,3 @@
-
 - [Principal investigator](#Principal-Investigator)
 - [Post-doctoral researchers](#Post-doctoral-researchers)
   * [Anna Marzecova](#Anna-Marzecova)
