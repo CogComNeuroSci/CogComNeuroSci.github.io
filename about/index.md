@@ -112,6 +112,7 @@ __More information:__
 * GitHub: [@PieterVerbeke](https://github.com/PieterVerbeke)
 * Email: [pjverbek.verbeke@UGent.be](mailto:pjverbek.verbeke@UGent.be)
 * Twitter: [@PieterVerbeke4](https://twitter.com/PieterVerbeke4)
+* Personal website: [Personal website](https://pieterverbeke.github.io)
 
 # Visiting researchers
 
