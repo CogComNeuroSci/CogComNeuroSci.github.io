@@ -60,8 +60,8 @@ My Fellowship is funded by the Flanders Fund for Scientific Research (FWO) and t
 
 <img src="/images/profile_pic_irene.jpg" alt="Irene Cogliati Dezza" max-width="20%" height="auto" align="left" hspace="10" vspace="10">
 
-I am a postdoctoral researcher funded by the FWO-postdoctoral fellowship at Ghent University (BE) and University College London (UK). I am also associate editor at [In-Mind Italy](https://it.in-mind.org/) and co-founder of [BeBrain](https://bebrainconsultancy.com/). I hold a BA in Biology, a MA in Neurobiology, a university certificate in data science and a PhD in computational cognitive neuroscience. 
-My research focuses on understanding how people decide what they want to know and how they explore novel and unknown courses of action. I conduct my research in adults and children in both healthy and clinical populations. My approach combines state-of-the-art methods from diverse disciplines including psychology, neuroscience and computer science.
+I am a postdoctoral researcher funded by the FWO-postdoctoral fellowship at both Ghent University (BE) and University College London (UK) as well as a consultant at [BeBrain]
+(https://bebrainconsultancy.com/). I hold a BA in Biology, a MA in Neurobiology, a university certificate in data science and a PhD in psychology. My research focuses on understanding the mechanisms underlying decision-making both in adults and children, in healthy and clinical populations. My approach combines state-of-the-art methods from diverse disciplines including psychology, neuroscience and computer science.
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="Irene.CogliatiDezza@UGent.be" href="mailto:Irene.CogliatiDezza@UGent.be" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/mail_32x32.jpg" style="width:2em;margin-right:.5em;" alt="Mail icon">Irene.CogliatiDezza@UGent.be</a></div>
 
