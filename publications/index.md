@@ -11,14 +11,10 @@
 ## Preprints
 
 - Dewaelle, H., Verguts, T., & Lesage, E. (2024). Validation of the Dutch version of the Creatures of Habit Scale (COHS): a self-report measure of the tendency for habitual behavior in daily life. [PsyArxiv.](https://osf.io/preprints/psyarxiv/zwbpu)
-
-- Verbeke, P., & Verguts, T. (2023). Reinforcement learning and meta-decision making. [PsyArxiv.](https://osf.io/preprints/psyarxiv/uvfhe)
   
 - Chen, H., Hauspie, C., Ergo, K., Calderon, C. B., & Verguts, T. (2023). Prediction error as the basis of the testing effect: Empirical and Modelling Evidence. [PsyArxiv.](https://osf.io/preprints/psyarxiv/ar5yd/)
 
 - Le Denmat, P, Verguts, T., & Desender, K. (2023). A low-dimensional approximation of optimal confidence. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2023.03.15.532729v1)
-
-- Simoens, J., Verguts, T., & Braem, S. (2023). Meta-learning environment-specific learning rates. [PsyArxiv.](https://psyarxiv.com/ypd45)
 
 - Turkakin, E., Verguts, T., Desender, K., & Lesage, E. (2023). Should I Sample or Should I Go? An approximately optimal model for deciding when to stop sampling information. [PsyArxiv.](https://psyarxiv.com/tfe94/)
 
@@ -27,7 +23,13 @@
 ## Recent publications
 
 in press:
+- Simoens, J., Verguts, T., & Braem, S. (in press). Meta-learning environment-specific learning rates. PLoS: Computational Biology. [PsyArxiv version.](https://psyarxiv.com/ypd45)
+
 - Verbeke, P., & Verguts, T. (in press). Humans adaptively select different computational strategies in different learning environments. Psychological Review. [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.01.27.525944v1)
+
+
+2024: 
+- Verbeke, P., & Verguts, T. (2024). Reinforcement learning and meta-decision making. Current Opinion in Behavioral Sciences. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/uvfhe)
 
 - Van Marcke, H., Le Denmat, P., Verguts, T., & Desender, K. (in press). Manipulating prior beliefs causally induces under- and overconfidence. Psychological Science. [BioRxiv version.](https://doi.org/10.1101/2022.03.01.482511)
 
