@@ -2,18 +2,15 @@
 
 1. [Principal investigator](#principal-investigator)
 2. [Post-doctoral researchers](#post-doctoral-researchers)
-    - [Elise Lesage](#elise-lesage)
     - [Irene Cogliati Dezza](#irene-cogliati-dezza)
     - [Pieter Verbeke](#pieter-verbeke)
 3. [PhD researchers](#phd-researchers)
-    - [Esin Turkakin](#esin-turkakin)
     - [Jonas Simoens](#jonas-simoens)
     - [Haopeng Chen](#haopeng-chen)
     - [Xiaoyu Zhang](#xiaoyu-zhang)
 4. [Visiting researchers](#visiting-researchers)
 5. [Internship students](#internship-students)
-    - [Noe De Rijck](#noe-de-rijck)
-    - [Xinyi Yuan](#xinyi-yuan)
+    
    
 
 # Principal Investigator
@@ -38,23 +35,6 @@ Although this is a fairly broad topic, there are a few recurring themes, such as
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-7783-4754" href="https://orcid.org/0000-0002-7783-4754" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/orcid_32x32.jpg" style="width:2em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-7783-4754</a></div>
 
 # Post-doctoral researchers
-
-
-### Elise Lesage
-
-<img src="/images/profile_pic_elise.jpg" alt="Elise Lesage" max-width="50%" height="auto" align="left" hspace="10" vspace="10">
-
-My current project studies how behavior becomes habitual and how habits can be overcome. I use computational modeling, fMRI, and brain stimulation techniques to investigate these questions.
-
-My broader research interests are pretty varied and can be described as: finding out how humans think :smile:. Before and during my PhD I studied the role of the cerebellum in non-motor functions such as language and cognition. In my postdoc at NIDA (NIH) I switched gears and learned more about addiction and reward processing. My present Fellowship integrates some of the key ideas behind reward processing, automaticity, and cognition.
-
-My Fellowship is funded by the Flanders Fund for Scientific Research (FWO) and the European Commission’s Marie Curie Actions through the Pegasus scheme.
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="Elise.Lesage@UGent.be" href="mailto:Elise.Lesage@UGent.be" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/mail_32x32.jpg" style="width:2em;margin-right:.5em;" alt="Mail icon">Elise.Lesage@UGent.be</a></div>
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://twitter.com/elise_lesage" href="https://twitter.com/elise_lesage" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://img.icons8.com/android/24/000000/twitter.png" style="width:2em;margin-right:.5em;" alt="ORCID iD icon">@elise_lesage</a></div>
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5517-6965" href="https://orcid.org/0000-0002-5517-6965" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/orcid_32x32.jpg" style="width:2em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-5517-6965</a></div>
 
 ### Irene Cogliati Dezza
 
@@ -90,20 +70,6 @@ The appropriate modules can be bound via the synchronization of oscillations (in
 
 # PhD researchers
 
-### Esin Turkakin
-
-<img src="/images/profile_pic_esin.jpg" alt="Esin Turkakin" max-width="50%" height="auto" align="left" hspace="10" vspace="10">
-
-Esin Turkakin is a doctoral working at Verguts Lab.    
-In her research, she mainly focuses on perceptual decision-making, computational modeling of decision processes, neuromodulation and gamification of decision-making tasks.
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="Esin.Turkakin@UGent.be" href="mailto:Esin.Turkakin@UGent.be" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/mail_32x32.jpg" style="width:2em;margin-right:.5em;" alt="Mail icon">Esin.Turkakin@UGent.be</a></div>
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://esintu.github.io" href="https://esintu.github.io" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/website_32x32.jpg" style="width:2em;margin-right:.5em;" alt="ORCID iD icon">https://esintu.github.io</a></div>
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3379-3986" href="https://orcid.org/0000-0003-3379-3986" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/orcid_32x32.jpg" style="width:2em;margin-right:.5em;" alt="ORCID iD icon">0000-0003-3379-3986</a></div>
-
-<p style="background-color:white;color:white;">White text</p>
 
 ### Jonas Simoens
 
@@ -141,21 +107,9 @@ Currently, we have no visiting researchers working in our lab.
 
 # Internship students
 
-### Noe De Rijck 
+Currently, we have no visiting researchers working in our lab.    
 
-<img src="/images/profile_pic_noe.jpg" alt="Noe De Rijck" max-width="50%" height="auto" align="left" hspace="10" vspace="10">
 
-I'm a master's student from Université Libre de Bruxelles, interning with Haopeng. My internship focuses on understanding how prediction errors (PE) affect learning. Previous research suggests that stimuli falling within a 'sweet spot' of PE are preferred from an aestetic standpoint. With a focus on modeling, we'll be investigating whether the impact of PE on learning follows a similar trend, such that learning could be improved if new information was just surprising enough.
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="Noe.De.Rijck@UGent.be" href="mailto:Noe.De.Rijck@UGent.be" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/mail_32x32.jpg" style="width:2em;margin-right:.5em;" alt="Mail icon">Noe.De.Rijck@UGent.be</a></div>
-
-### Xinyi Yuan
-
-<img src="/images/profile_pic_xinyi.png" alt="Xinyi Yuan" max-width="20%" height="auto" align="left" hspace="10" vspace="10">
-
-I’m a senior student majoring in psychology and minoring in mathematics. In my internship with Pieter Verbeke, I intend to further develop the <a href = "https://github.com/CogComNeuroSci/COMPASS"><u>COMPASS toolbox.</u></a>This is a computational tool that allows to estimate the number of participants required to fit computational models to behavioural data. While this tool is currently limited to the basic RW model, I aim to extend it to a wider range of models.
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="Xinyi.Yuan@UGent.be" href="mailto:Xinyi.Yuan@UGent.be" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/mail_32x32.jpg" style="width:2em;margin-right:.5em;" alt="Mail icon">Xinyi.Yuan@UGent.be</a></div>
 
 ---
 
