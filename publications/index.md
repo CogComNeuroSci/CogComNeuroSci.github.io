@@ -10,28 +10,29 @@
 
 ## Preprints
 
-- Dewaelle, H., Verguts, T., & Lesage, E. (2024). Validation of the Dutch version of the Creatures of Habit Scale (COHS): a self-report measure of the tendency for habitual behavior in daily life. [PsyArxiv.](https://osf.io/preprints/psyarxiv/zwbpu)
-  
+- Cogliati Dezza, I., Molinaro, G., & Verguts, T. (2024). When cognition overshadows affect, maladaptive information seeking arises. [PsychArxiv.](https://osf.io/preprints/psyarxiv/2yu9e)
+   
 - Chen, H., Hauspie, C., Ergo, K., Calderon, C. B., & Verguts, T. (2023). Prediction error as the basis of the testing effect: Empirical and Modelling Evidence. [PsyArxiv.](https://osf.io/preprints/psyarxiv/ar5yd/)
 
-- Le Denmat, P, Verguts, T., & Desender, K. (2023). A low-dimensional approximation of optimal confidence. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2023.03.15.532729v1)
+- Dewaelle, H., Verguts, T., & Lesage, E. (2024). Validation of the Dutch version of the Creatures of Habit Scale (COHS): a self-report measure of the tendency for habitual behavior in daily life. [PsyArxiv.](https://osf.io/preprints/psyarxiv/zwbpu)
 
-- Turkakin, E., Verguts, T., Desender, K., & Lesage, E. (2023). Should I Sample or Should I Go? An approximately optimal model for deciding when to stop sampling information. [PsyArxiv.](https://psyarxiv.com/tfe94/)
-
-- Lesage, E., & Verguts, T. (2022). Contextual overtraining accelerates habit formation in new stimuli.  [PsyArXiv.](https://doi.org/10.31234/osf.io/7m6bh)
 
 ## Recent publications
 
 in press:
-- Simoens, J., Verguts, T., & Braem, S. (in press). Meta-learning environment-specific learning rates. PLoS: Computational Biology. [PsyArxiv version.](https://psyarxiv.com/ypd45)
 
-- Verbeke, P., & Verguts, T. (in press). Humans adaptively select different computational strategies in different learning environments. Psychological Review. [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.01.27.525944v1)
+- Le Denmat, P, Verguts, T., & Desender, K. (in press). A low-dimensional approximation of optimal confidence. PLoS: Computational Biology. [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.03.15.532729v1)
 
 
 2024: 
+
+- Verbeke, P., & Verguts, T. (2024). Humans adaptively select different computational strategies in different learning environments. Psychological Review. [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.01.27.525944v1)
+
+- Simoens, J., Verguts, T., & Braem, S. (2024). Meta-learning environment-specific learning rates. PLoS: Computational Biology. [PsyArxiv version.](https://psyarxiv.com/ypd45)
+
 - Verbeke, P., & Verguts, T. (2024). Reinforcement learning and meta-decision making. Current Opinion in Behavioral Sciences. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/uvfhe)
 
-- Van Marcke, H., Le Denmat, P., Verguts, T., & Desender, K. (in press). Manipulating prior beliefs causally induces under- and overconfidence. Psychological Science. [BioRxiv version.](https://doi.org/10.1101/2022.03.01.482511)
+- Van Marcke, H., Le Denmat, P., Verguts, T., & Desender, K. (2024). Manipulating prior beliefs causally induces under- and overconfidence. Psychological Science. [BioRxiv version.](https://doi.org/10.1101/2022.03.01.482511)
 
 
 2023:
@@ -41,8 +42,12 @@ in press:
 
 - Beeckmans, M., Huycke, P., Verguts, T., & Verbeke, P. (2023). How much data do we need to estimate computational models of decision making? The COMPASS toolbox. [Behavior Research Methods](https://link.springer.com/article/10.3758/s13428-023-02165-7) [PsyArxiv version.](https://psyarxiv.com/dexyk/) 
 
+- Turkakin, E., Verguts, T., Desender, K., & Lesage, E. (2023). Should I Sample or Should I Go? An approximately optimal model for deciding when to stop sampling information. [PsyArxiv.](https://psyarxiv.com/tfe94/)
+
 
 2022: 
+- Lesage, E., & Verguts, T. (2022). Contextual overtraining accelerates habit formation in new stimuli.  [PsyArXiv.](https://doi.org/10.31234/osf.io/7m6bh)
+
 - Peng, Z., He, L., Wen, R., Verguts, T., Seger, C. A., & Chen, Q. (2022). Obsessive-compulsive disorder is characterized by decreased Pavlovian influence on goal-directed instrumental behavior. [PLoS Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009945)
 
 - Huycke, P. Lesage, E., Boehler, C. Nico, & Verguts, T. (2022). Computational investigations of learning and synchronization in cognitive control. [Journal of Cognition.](https://journalofcognition.org/articles/10.5334/joc.239) [PsyArXiv version.](https://psyarxiv.com/jhmku/)
