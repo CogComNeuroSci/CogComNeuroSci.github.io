@@ -28,7 +28,7 @@ in press:
 
 - Verbeke, P., & Verguts, T. (2024). Humans adaptively select different computational strategies in different learning environments. Psychological Review. [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.01.27.525944v1)
 
-- Simoens, J., Verguts, T., & Braem, S. (2024). Meta-learning environment-specific learning rates. PLoS: Computational Biology. [PsyArxiv version.](https://psyarxiv.com/ypd45)
+- Simoens, J., Verguts, T., & Braem, S. (2024). Learning environment-specific learning rates. PLoS: Computational Biology. [PsyArxiv version.](https://psyarxiv.com/ypd45)
 
 - Verbeke, P., & Verguts, T. (2024). Reinforcement learning and meta-decision making. Current Opinion in Behavioral Sciences. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/uvfhe)
 
