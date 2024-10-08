@@ -2,8 +2,6 @@
 
 1. [Principal investigator](#principal-investigator)
 2. [Post-doctoral researchers](#post-doctoral-researchers)
-    - [Irene Cogliati Dezza](#irene-cogliati-dezza)
-    - [Pieter Verbeke](#pieter-verbeke)
 3. [PhD researchers](#phd-researchers)
     - [Jonas Simoens](#jonas-simoens)
     - [Haopeng Chen](#haopeng-chen)
@@ -36,37 +34,7 @@ Although this is a fairly broad topic, there are a few recurring themes, such as
 
 # Post-doctoral researchers
 
-### Irene Cogliati Dezza
-
-<img src="/images/profile_pic_irene.jpg" alt="Irene Cogliati Dezza" max-width="20%" height="auto" align="left" hspace="10" vspace="10">
-
-I am a postdoctoral researcher funded by the FWO-postdoctoral fellowship at Ghent University (BE) and University College London (UK). I am also associate editor at [In-Mind Italy](https://it.in-mind.org/) and co-founder of [BeBrain](https://bebrainconsultancy.com/). I hold a BA in Biology, a MA in Neurobiology, a university certificate in data science and a PhD in computational cognitive neuroscience. 
-My research focuses on understanding how people decide what they want to know and how they explore novel and unknown courses of action. I conduct my research in adults and children in both healthy and clinical populations. My approach combines state-of-the-art methods from diverse disciplines including psychology, neuroscience and computer science.
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="Irene.CogliatiDezza@UGent.be" href="mailto:Irene.CogliatiDezza@UGent.be" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/mail_32x32.jpg" style="width:2em;margin-right:.5em;" alt="Mail icon">Irene.CogliatiDezza@UGent.be</a></div>
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://twitter.com/cog_senoussi" href="https://twitter.com/I_CogliatiDezza" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://img.icons8.com/android/24/000000/twitter.png" style="width:2em;margin-right:.5em;" alt="ORCID iD icon">@I_CogliatiDezza</a></div>
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://sites.google.com/site/irenecogliatidezza" href="https://sites.google.com/site/irenecogliatidezza" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/website_32x32.jpg" style="width:2em;margin-right:.5em;" alt="ORCID iD icon">https://sites.google.com/site/irenecogliatidezza</a></div>
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1212-4751" href="https://orcid.org/0000-0002-1212-4751" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/orcid_32x32.jpg" style="width:2em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-1212-4751</a></div>
-
-### Pieter Verbeke
-
-<img src="/images/profile_pic_pieter_v.jpg" alt="Pieter Verbeke" max-width="20%" height="auto" align="left" hspace="10" vspace="10">
-
-My research focusses on how humans and artificial agents can balance shared versus separated task representations to optimize continual learning. Here, separated representations are useful to avoid (catastrophic) interference and shared representations are useful to speed up learning via generalization.
-We argue that humans do this via hierarchical learning.
-At the hierarchically higher level, relations between tasks are learned and used to decide which lower-level modules get control over behavior.
-The appropriate modules can be bound via the synchronization of oscillations (in biological agents) or via multiplicative gating (in artificial agents). To investigate this, we use multiple tools such as computational modelling, EEG, fMRI and behavioral studies.
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="pjverbek.Verbeke@UGent.be" href="mailto:pjverbek.Verbeke@UGent.be" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/mail_32x32.jpg" style="width:2em;margin-right:.5em;" alt="Mail icon">pjverbek.Verbeke@UGent.be</a></div>
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://pieterverbeke.github.io" href="https://pieterverbeke.github.io" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/website_32x32.jpg" style="width:2em;margin-right:.5em;" alt="ORCID iD icon">https://pieterverbeke.github.io</a></div>
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://twitter.com/PieterVerbeke4" href="https://twitter.com/PieterVerbeke4" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://img.icons8.com/android/24/000000/twitter.png" style="width:2em;margin-right:.5em;" alt="ORCID iD icon">@PieterVerbeke4</a></div>
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-2919-1528" href="https://orcid.org/0000-0003-2919-1528" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/orcid_32x32.jpg" style="width:2em;margin-right:.5em;" alt="ORCID iD icon">0000-0003-2919-1528</a></div>
+Currently, we have no postdocs working in our lab.
 
 # PhD researchers
 
@@ -88,7 +56,7 @@ I conduct this research in collaboration with Tom Verguts and Senne Braem, using
 
 <img src="/images/profile_pic_haopeng.jpg" alt="Haopeng Chen" max-width="50%" height="auto" align="left" hspace="10" vspace="10">
 
-My research topic is the "behavioral and neural nature of the testing effect". The testing effect refers to the phenomenon that testing can help people reinforce the learned materials better than restudying. Although the Testing effect has been demonstrated in many studies and holds major educational implications, its origin has remained unclear. Based on earlier empirical work and theory formation, we currently postulate that the testing effect derives from reward prediction error (RPE). To be specific, during testing, people will calculate their confidence in their answers and get feedback, which will trigger the RPE (feedback-confidence). Therefore, it might be the RPE triggered by testing that leads to the testing effect. We will try to investigate this postulation at both behavioral and neural (fMRI) levels.
+My research topic is the behavioral and neural nature of the testing effect. The testing effect refers to the phenomenon that testing can help people reinforce the learned materials better than restudying. Although the testing effect has been demonstrated in many studies and holds major educational implications, its origin has remained unclear. Based on earlier empirical work and theory formation, we currently postulate that the testing effect derives from reward prediction error (RPE). To be specific, during testing, people will calculate their confidence in their answers and get feedback, which will trigger the RPE (feedback-confidence). Therefore, it might be the RPE triggered by testing that leads to the testing effect. We will try to investigate this postulation at both behavioral and neural (fMRI) levels.
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="Haopeng.Chen@UGent.be" href="mailto:Haopeng.Chen@UGent.be" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/mail_32x32.jpg" style="width:2em;margin-right:.5em;" alt="Mail icon">Haopeng.Chen@UGent.be</a></div>
 
@@ -107,7 +75,7 @@ Currently, we have no visiting researchers working in our lab.
 
 # Internship students
 
-Currently, we have no visiting researchers working in our lab.    
+Currently, we have no internship students working in our lab.    
 
 
 
