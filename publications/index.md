@@ -19,12 +19,10 @@
 
 ## Recent publications
 
-in press:
-
-- Le Denmat, P, Verguts, T., & Desender, K. (in press). A low-dimensional approximation of optimal confidence. PLoS: Computational Biology. [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.03.15.532729v1)
-
 
 2024: 
+
+- Le Denmat, P, Verguts, T., & Desender, K. (2004). A low-dimensional approximation of optimal confidence. [PLoS: Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012273) [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.03.15.532729v1)
 
 - Verbeke, P., & Verguts, T. (2024). Humans adaptively select different computational strategies in different learning environments. Psychological Review. [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.01.27.525944v1)
 
