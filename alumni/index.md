@@ -6,7 +6,10 @@
     - [Desender Kobe](#desender-kobe)
     - [Janowich Jacki](#janowich-jacki)
     - [Senoussi Mehdi](#senoussi-mehdi)
-
+    - [Lesage Elise](#lesage-elise)
+    - [Cogliati Dezza Irene](#cogliati-dezza-irene)
+    - [Verbeke Pieter](#verbeke-pieter)
+  
 2. [PhD researchers](#phd-researchers)
     - [Aben Bart](#aben-bart)
     - [Deraeve James](#deraeve-james)
@@ -45,11 +48,15 @@ Jacki currently works as a medical writer at [Evidera](https://www.evidera.com/w
 
 Mehdi currently works as an assistant professor at Université Toulouse.
 
-### Irene Cogliati Dezza
+### Lesage Elise
+
+Elise currently works as a data scientist.
+
+### Cogliati Dezza Irene
 
 Irene is currently a professor at ULB.
 
-### Pieter Verbeke
+### Verbeke Pieter
 
 Pieter is currently an AI researcher at HOWEST.
 
@@ -79,4 +86,4 @@ Pieter currently works as a Data Engineer at [Data Minded](https://www.dataminde
 
 <hr class="dashed">
  
-**Note**: the information listed here is subject to change, and is only updated periodically. If you wish to contact one of our alumni, we encourage you to look up contact information online to ensure correctness. 
+**Note**: the information listed here is incomplete, subject to change, and is only updated periodically. If you wish to contact one of our alumni, we encourage you to look up contact information online to ensure correctness. 
