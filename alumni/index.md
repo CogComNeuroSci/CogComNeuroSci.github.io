@@ -45,6 +45,14 @@ Jacki currently works as a medical writer at [Evidera](https://www.evidera.com/w
 
 Mehdi currently works as an assistant professor at Université Toulouse.
 
+### Irene Cogliati Dezza
+
+Irene is currently a professor at ULB.
+
+### Pieter Verbeke
+
+Pieter is currently an AI researcher at HOWEST.
+
 ## PhD researchers
 
 ### Aben Bart   
