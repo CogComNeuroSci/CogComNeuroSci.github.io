@@ -8,7 +8,7 @@
   <img src="/images/MCP_cover.jpg" alt="MCP book cover" max-width="50%" height="auto" align="center" hspace="10" vspace="10">
 </div>    
 
-## Preprints
+## Recent preprints
 
 - Cogliati Dezza, I., Molinaro, G., & Verguts, T. (2024). When cognition overshadows affect, maladaptive information seeking arises. [PsychArxiv.](https://osf.io/preprints/psyarxiv/2yu9e)
    
@@ -22,11 +22,13 @@
 
 2024: 
 
-- Le Denmat, P, Verguts, T., & Desender, K. (2004). A low-dimensional approximation of optimal confidence. [PLoS: Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012273) [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.03.15.532729v1)
+- Le Denmat, P, Verguts, T., & Desender, K. (2024). A low-dimensional approximation of optimal confidence. [PLoS: Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012273) [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.03.15.532729v1)
 
+- Vasta, N., Xu, S., Verguts, T., & Braem, S. (2024). A shared temporal window across cognitive control and reinforcement learning paradigms: A correlational study. Memory & Cognition.
+ 
 - Verbeke, P., & Verguts, T. (2024). Humans adaptively select different computational strategies in different learning environments. Psychological Review. [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.01.27.525944v1)
 
-- Simoens, J., Verguts, T., & Braem, S. (2024). Learning environment-specific learning rates. PLoS: Computational Biology. [PsyArxiv version.](https://psyarxiv.com/ypd45)
+- Simoens, J., Verguts, T., & Braem, S. (2024). Learning environment-specific learning rates. [PLoS: Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011978) [PsyArxiv version.](https://psyarxiv.com/ypd45)
 
 - Verbeke, P., & Verguts, T. (2024). Reinforcement learning and meta-decision making. Current Opinion in Behavioral Sciences. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/uvfhe)
 
