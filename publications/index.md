@@ -10,6 +10,8 @@
 
 ## Recent preprints
 
+- Desender, K., & Verguts, T. (2024). Decision confidence and outcome variability optimally regulate separate aspects of decision making. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2024.10.03.616475v1)
+
 - Cogliati Dezza, I., Molinaro, G., & Verguts, T. (2024). When cognition overshadows affect, maladaptive information seeking arises. [PsychArxiv.](https://osf.io/preprints/psyarxiv/2yu9e)
    
 - Chen, H., Hauspie, C., Ergo, K., Calderon, C. B., & Verguts, T. (2023). Prediction error as the basis of the testing effect: Empirical and Modelling Evidence. [PsyArxiv.](https://osf.io/preprints/psyarxiv/ar5yd/)
