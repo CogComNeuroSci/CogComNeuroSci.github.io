@@ -1,13 +1,14 @@
 ---
 layout: post
-title: COMPASS paper accepted in Behavior Research Methods
+title: Testing effect paper accepted in Communications Psychology
 categories: blog
-excerpt: Our toolbox for determining the appropriate sample size for computational models (COMPASS) is accepted in Behavior Research Methods.
+excerpt: We propose that the famous testing effect in declarative memory, originates from prediction-based learning. We provide evidence in three behavioral experiments and
+ computational modeling of those data.
 tags:
 image:
   feature:
 link:
-date: 2023-06-06
+date: 2025-01-22
 modified:
 share: true
 author: tom_verguts
