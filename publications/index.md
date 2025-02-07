@@ -10,25 +10,33 @@
 
 ## Recent preprints
 
+- Verbeke, P., De Walsche, M., Maelfait, P., & Verguts, T. (2025). Testing the limits of human flexibility. [PsychArxiv.](https://osf.io/preprints/psyarxiv/hgfsq_v1)
+
+- Reynders, J., Verguts, T., & Braem, S. (2025). Strategic variability in humans, pigeons, and rats. [PsychArxiv.](https://osf.io/preprints/psyarxiv/4fnjz_v1)
+ 
+- Goetmaeckers, F., Goris, J., Wiersema, J. R., Verguts, T., & Braem, S. (2025). Different exploration strategies along the autism spectrum: Diverging effects of autism diagnosis and autism traits. (2025). [PsychArxiv.](https://osf.io/3mvxk_v1)
+  
 - Desender, K., & Verguts, T. (2024). Decision confidence and outcome variability optimally regulate separate aspects of decision making. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2024.10.03.616475v1)
 
 - Cogliati Dezza, I., Molinaro, G., & Verguts, T. (2024). When cognition overshadows affect, maladaptive information seeking arises. [PsychArxiv.](https://osf.io/preprints/psyarxiv/2yu9e)
    
-- Chen, H., Hauspie, C., Ergo, K., Calderon, C. B., & Verguts, T. (2023). Prediction error as the basis of the testing effect: Empirical and Modelling Evidence. [PsyArxiv.](https://osf.io/preprints/psyarxiv/ar5yd/)
-
 - Dewaelle, H., Verguts, T., & Lesage, E. (2024). Validation of the Dutch version of the Creatures of Habit Scale (COHS): a self-report measure of the tendency for habitual behavior in daily life. [PsyArxiv.](https://osf.io/preprints/psyarxiv/zwbpu)
 
 
 ## Recent publications
 
 
+2025:
+- Chen, H., Hauspie, C., Ergo, K., Calderon, C. B., & Verguts, T. (2023). Prediction error as the basis of the testing effect: Empirical and Modelling Evidence. [Communications Psychology.](https://www.nature.com/articles/s44271-025-00200-1) [Brief summary.](https://communities.springernature.com/posts/predictive-learning-as-the-basis-of-the-testing-effect?utm_source=like_mailer&utm_medium=email&utm_campaign=notify_contributor_about_like) [PsyArxiv version.](https://osf.io/preprints/psyarxiv/ar5yd/)
+
+
 2024: 
 
 - Le Denmat, P, Verguts, T., & Desender, K. (2024). A low-dimensional approximation of optimal confidence. [PLoS: Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012273) [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.03.15.532729v1)
 
-- Vasta, N., Xu, S., Verguts, T., & Braem, S. (2024). A shared temporal window across cognitive control and reinforcement learning paradigms: A correlational study. Memory & Cognition.
+- Vasta, N., Xu, S., Verguts, T., & Braem, S. (2024). A shared temporal window across cognitive control and reinforcement learning paradigms: A correlational study. [Memory & Cognition](https://link.springer.com/article/10.3758/s13421-024-01626-4)
  
-- Verbeke, P., & Verguts, T. (2024). Humans adaptively select different computational strategies in different learning environments. Psychological Review. [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.01.27.525944v1)
+- Verbeke, P., & Verguts, T. (2024). Humans adaptively select different computational strategies in different learning environments. [Psychological Review.](https://psycnet.apa.org/doiLanding?doi=10.1037%2Frev0000474) [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.01.27.525944v1)
 
 - Simoens, J., Verguts, T., & Braem, S. (2024). Learning environment-specific learning rates. [PLoS: Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011978) [PsyArxiv version.](https://psyarxiv.com/ypd45)
 
