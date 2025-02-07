@@ -27,7 +27,7 @@
 
 
 2025:
-- Chen, H., Hauspie, C., Ergo, K., Calderon, C. B., & Verguts, T. (2023). Prediction error as the basis of the testing effect: Empirical and Modelling Evidence. [Communications Psychology.](https://www.nature.com/articles/s44271-025-00200-1) [Brief summary.](https://communities.springernature.com/posts/predictive-learning-as-the-basis-of-the-testing-effect?utm_source=like_mailer&utm_medium=email&utm_campaign=notify_contributor_about_like) [PsyArxiv version.](https://osf.io/preprints/psyarxiv/ar5yd/)
+- Chen, H., Hauspie, C., Ergo, K., Calderon, C. B., & Verguts, T. (2025). Prediction error as the basis of the testing effect [Communications Psychology.](https://www.nature.com/articles/s44271-025-00200-1) [Brief summary.](https://communities.springernature.com/posts/predictive-learning-as-the-basis-of-the-testing-effect?utm_source=like_mailer&utm_medium=email&utm_campaign=notify_contributor_about_like) [PsyArxiv version.](https://osf.io/preprints/psyarxiv/ar5yd/)
 
 
 2024: 
