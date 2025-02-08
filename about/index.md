@@ -6,6 +6,7 @@
     - [Jonas Simoens](#jonas-simoens)
     - [Haopeng Chen](#haopeng-chen)
     - [Xiaoyu Zhang](#xiaoyu-zhang)
+    - [Mengting Xu](#mengting-xu)
 4. [Visiting researchers](#visiting-researchers)
 5. [Internship students](#internship-students)
     
