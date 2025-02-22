@@ -84,7 +84,7 @@ Currently, we have no visiting researchers working in our lab.
 # Internship students
 
 ### Andrea Burda
-<img src="/images/profile_pic_andrea.jpg" alt="Andrea Burda" max-width="50%" height="auto" align="left" hspace="10" vspace="10">
+<img src="/images/profile_pic_andrea.jpg" alt="Andrea Burda" max-width="50%" height="200" align="left" hspace="10" vspace="10">
 
 Machines and humans learn in fundamentally different ways. While machines are simply trained by randomly sampling tasks from a vast data set, humans actively adapt their sampling method to maximise learning. Tasks are administered in a meaningful order by gradually integrating more concepts, or a higher complexity. Such training requires not only the "student" (the learning agent) to learn from the data, but the "teacher" (which delivers data) to learn which task to attribute for efficient learning: this is curriculum learning. During my internship, I want to describe this phenomenon through computational models and test their efficiency against random sampling. The end goal is to enhance our understanding of human learning. This research is conducted in collaboration with Tom Verguts and Haopeng Chen. 
 
