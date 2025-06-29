@@ -10,8 +10,8 @@
 
 ## Recent preprints
 
-- Verbeke, P., De Walsche, M., Maelfait, P., & Verguts, T. (2025). Testing the limits of human flexibility. [PsychArxiv.](https://osf.io/preprints/psyarxiv/hgfsq_v1)
-
+- Zhang, Y., Deng, F., Liao, J., Verguts, T., & Chen, Q. (2025). Medial frontal theta reduction impairs rule switching via prediction error. [BioArxiv.](https://doi.org/10.1101/2025.06.24.661140)
+ 
 - Reynders, J., Verguts, T., & Braem, S. (2025). Strategic variability in humans, pigeons, and rats. [PsychArxiv.](https://osf.io/preprints/psyarxiv/4fnjz_v1)
  
 - Goetmaeckers, F., Goris, J., Wiersema, J. R., Verguts, T., & Braem, S. (2025). Different exploration strategies along the autism spectrum: Diverging effects of autism diagnosis and autism traits. (2025). [PsychArxiv.](https://osf.io/3mvxk_v1)
@@ -27,6 +27,9 @@
 
 
 2025:
+
+- Verbeke, P., De Walsche, M., Maelfait, P., & Verguts, T. (2025). Testing the limits of human flexibility. Journal of Experimental Psychology: General. [PsychArxiv version.](https://osf.io/preprints/psyarxiv/hgfsq_v1)
+
 - Chen, H., Hauspie, C., Ergo, K., Calderon, C. B., & Verguts, T. (2025). Prediction error as the basis of the testing effect [Communications Psychology.](https://www.nature.com/articles/s44271-025-00200-1) [Brief summary.](https://communities.springernature.com/posts/predictive-learning-as-the-basis-of-the-testing-effect?utm_source=like_mailer&utm_medium=email&utm_campaign=notify_contributor_about_like) [PsyArxiv version.](https://osf.io/preprints/psyarxiv/ar5yd/)
 
 
