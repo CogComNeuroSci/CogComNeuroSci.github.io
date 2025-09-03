@@ -12,7 +12,6 @@
 
 - Zhang, Y., Deng, F., Liao, J., Verguts, T., & Chen, Q. (2025). Medial frontal theta reduction impairs rule switching via prediction error. [BioArxiv.](https://doi.org/10.1101/2025.06.24.661140)
  
-- Chen, H., Verbeke, P., Mattioni, S., Calderon, C. B., & Verguts, T. (2025). Neural and computational evidence for a predictive learning account of the testing effect. [BioArxiv.](https://doi.org/10.1101/2025.03.17.643739)
 
 - Simoens, J., Braem, S., Verbeke, P., Chen, H., Mattioni, S., Chai, M., Schuck, N. W., & Verguts, T. (2025). Two time scales of adaptation in human learning rates. [BioArxiv.](https://doi.org/10.1101/2025.06.05.658048)
 
@@ -21,9 +20,7 @@
 - Xu., S., Verguts, T., & Braem, S. (2025). Cognitive flexibility versus stability via activation-based and weight-based adaptations. [PsyArxiv.](https://osf.io/preprints/psyarxiv/w8meh_v1) 
 
 - Reynders, J., Verguts, T., & Braem, S. (2025). Strategic variability in humans, pigeons, and rats. [PsychArxiv.](https://osf.io/preprints/psyarxiv/4fnjz_v1)
- 
-- Goetmaeckers, F., Goris, J., Wiersema, J. R., Verguts, T., & Braem, S. (2025). Different exploration strategies along the autism spectrum: Diverging effects of autism diagnosis and autism traits. (2025). [PsychArxiv.](https://osf.io/3mvxk_v1)
-  
+   
 - Desender, K., & Verguts, T. (2024). Decision confidence and outcome variability optimally regulate separate aspects of decision making. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2024.10.03.616475v1)
 
 - Cogliati Dezza, I., Molinaro, G., & Verguts, T. (2024). When cognition overshadows affect, maladaptive information seeking arises. [PsychArxiv.](https://osf.io/preprints/psyarxiv/2yu9e)
@@ -35,6 +32,10 @@
 
 
 2025:
+
+- Chen, H., Verbeke, P., Mattioni, S., Calderon, C. B., & Verguts, T. (2025). Neural and computational evidence for a predictive learning account of the testing effect. Proceedings of the National Academy of Sciences. [BioArxiv version.](https://doi.org/10.1101/2025.03.17.643739)
+
+- Goetmaeckers, F., Goris, J., Wiersema, J. R., Verguts, T., & Braem, S. (2025). Different exploration strategies along the autism spectrum: Diverging effects of autism diagnosis and autism traits. Molecular Autism. [PsychArxiv version.](https://osf.io/3mvxk_v1)
 
 - Verbeke, P., De Walsche, M., Maelfait, P., & Verguts, T. (2025). Testing the limits of human flexibility. Journal of Experimental Psychology: General. [PsychArxiv version.](https://osf.io/preprints/psyarxiv/hgfsq_v1)
 
