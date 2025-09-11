@@ -3,13 +3,12 @@
 1. [Principal investigator](#principal-investigator)
 2. [Post-doctoral researchers](#post-doctoral-researchers)
 3. [PhD researchers](#phd-researchers)
-    - [Jonas Simoens](#jonas-simoens)
     - [Haopeng Chen](#haopeng-chen)
     - [Xiaoyu Zhang](#xiaoyu-zhang)
     - [Mengting Xu](#mengting-xu)
 4. [Visiting researchers](#visiting-researchers)
 5. [Internship students](#internship-students)
-    - [Andrea Burda](#andrea-burda)  
+    
    
 
 # Principal Investigator
@@ -38,9 +37,6 @@ Although this is a fairly broad topic, there are a few recurring themes, such as
 Currently, we have no postdocs working in our lab.
 
 # PhD researchers
-
-
-
 
 ### Haopeng Chen
 
@@ -72,12 +68,8 @@ Currently, we have no visiting researchers working in our lab.
 
 # Internship students
 
-### Andrea Burda
-<img src="/images/profile_pic_andrea.jpg" alt="Andrea Burda" max-width="50%" height="200" align="left" hspace="10" vspace="10">
+Currently, we have no internship students working in our lab. 
 
-Machines and humans learn in fundamentally different ways. While machines are simply trained by randomly sampling tasks from a vast data set, humans actively adapt their sampling method to maximise learning. Tasks are administered in a meaningful order by gradually integrating more concepts, or a higher complexity. Such training requires not only the "student" (the learning agent) to learn from the data, but the "teacher" (which delivers data) to learn which task to attribute for efficient learning: this is curriculum learning. During my internship, I want to describe this phenomenon through computational models and test their efficiency against random sampling. The end goal is to enhance our understanding of human learning. This research is conducted in collaboration with Tom Verguts and Haopeng Chen. 
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="Andrea.Burda@ULB.be" href="mailto:Andrea.Burda@ULB.be" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/mail_32x32.jpg" style="width:2em;margin-right:.5em;" alt="Mail icon">Andrea.Burda@ULB.be</a></div>
 
 
 
