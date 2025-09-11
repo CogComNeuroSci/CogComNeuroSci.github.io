@@ -62,6 +62,7 @@ Pieter is currently an AI researcher at HOWEST.
 
 ## PhD researchers
 
+
 ### Aben Bart   
 
 Bart currently works as Consultant Research & Development at [HumanTotalCare](https://www.humantotalcare.nl/).
