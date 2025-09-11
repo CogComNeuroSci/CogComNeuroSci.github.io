@@ -40,17 +40,6 @@ Currently, we have no postdocs working in our lab.
 # PhD researchers
 
 
-### Jonas Simoens
-
-<img src="/images/profile_pic_jonas.jpg" alt="Jonas Simoens" max-width="50%" height="auto" align="left" hspace="10" vspace="10">
-
-Psychologists tend to be interested not only in understanding, but also in improving, human cognition and behavior. Correspondingly, it has already been extensively demonstrated that concrete behaviours can indeed be modulated by selectively rewarding certain behaviours more than others. Inspired by computational models of cognitive control, I investigate whether, in the same way, it is also possible to modulate abstract task execution parameters, such as learning rate, as described by computational models of learning and decision making. Moreover, I investigate whether these parameters can be adapted to multiple environments (in terms of reward contingencies) simultaneously, guided by associated contextual features.
-
-I conduct this research in collaboration with Tom Verguts and Senne Braem, using a combination of computational modeling, behavioural and neuroimaging techniques.
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="Jonas.Simoens@UGent.be" href="mailto:Jonas.Simoens@UGent.be" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/mail_32x32.jpg" style="width:2em;margin-right:.5em;" alt="Mail icon">Jonas.Simoens@UGent.be</a></div>
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0497-7287" href="https://orcid.org/0000-0002-0497-7287" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/orcid_32x32.jpg" style="width:2em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-0497-7287</a></div>
 
 
 ### Haopeng Chen
