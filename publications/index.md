@@ -10,12 +10,6 @@
 
 ## Recent preprints
 
-- Zhang, Y., Deng, F., Liao, J., Verguts, T., & Chen, Q. (2025). Medial frontal theta reduction impairs rule switching via prediction error. [BioArxiv.](https://doi.org/10.1101/2025.06.24.661140)
- 
-
-- Simoens, J., Braem, S., Verbeke, P., Chen, H., Mattioni, S., Chai, M., Schuck, N. W., & Verguts, T. (2025). Two time scales of adaptation in human learning rates. [BioArxiv.](https://doi.org/10.1101/2025.06.05.658048)
-
-- Le Denmat, P., Desender, K., & Verguts, T. (2025). Learning to be confident: How agents learn confidence based on prediction errors. [PsyArxiv.](https://osf.io/preprints/psyarxiv/2kqyf_v1)
 
 - Xu., S., Verguts, T., & Braem, S. (2025). Cognitive flexibility versus stability via activation-based and weight-based adaptations. [PsyArxiv.](https://osf.io/preprints/psyarxiv/w8meh_v1) 
 
@@ -31,7 +25,16 @@
 ## Recent publications
 
 
+2026: 
+
+- Le Denmat, P., Desender, K., & Verguts, T. (2026). Learning to be confident: How agents learn confidence based on prediction errors. Cognition. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/2kqyf_v1)
+
+
 2025:
+
+- Zhang, Y., Deng, F., Liao, J., Verguts, T., & Chen, Q. (2025). Medial frontal theta reduction impairs rule switching via prediction error. Journal of Neuroscience. [BioArxiv version.](https://doi.org/10.1101/2025.06.24.661140)
+ 
+- Simoens, J., Braem, S., Verbeke, P., Chen, H., Mattioni, S., Chai, M., Schuck, N. W., & Verguts, T. (2025). Two time scales of adaptation in human learning rates. eLife. [BioArxiv version.](https://doi.org/10.1101/2025.06.05.658048)
 
 - Chen, H., Verbeke, P., Mattioni, S., Calderon, C. B., & Verguts, T. (2025). Neural and computational evidence for a predictive learning account of the testing effect. Proceedings of the National Academy of Sciences. [BioArxiv version.](https://doi.org/10.1101/2025.03.17.643739)
 
