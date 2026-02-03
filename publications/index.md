@@ -11,7 +11,9 @@
 ## Recent preprints
 
    
-- Xu, C., Mei, N., Dong W., Hu, R., Verguts T., & Chen, W. (2026). Orthogonal representational geometry in dACC underpins human hierarchical reasoning. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2025.11.16.688413v2.abstract)
+- Xu, M., Badaya, E., Senoussi, M., & Verguts, T. (2026). Rhythmicity revisited: Evidence from robust behavioral oscillations. [BioArxiv.](https://www.biorxiv.org/content/10.64898/2025.12.24.696378v1.abstract)
+
+- Xu, C., Mei, N., Dong W., Hu, R., Verguts T., & Chen, Q. (2026). Orthogonal representational geometry in dACC underpins human hierarchical reasoning. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2025.11.16.688413v2.abstract)
 
 - Chen, H., Claeys, W., Ergo, K., Buc Calderon, C., & Verguts, T. (2026). Robust effects of signed prediction error on declarative memory. [Preprint.](https://osf.io/preprints/psyarxiv/sqjgz_v3)
 
