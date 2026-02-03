@@ -10,22 +10,21 @@
 
 ## Recent preprints
 
-
-- Xu., S., Verguts, T., & Braem, S. (2025). Cognitive flexibility versus stability via activation-based and weight-based adaptations. [PsyArxiv.](https://osf.io/preprints/psyarxiv/w8meh_v1) 
-
-- Reynders, J., Verguts, T., & Braem, S. (2025). Strategic variability in humans, pigeons, and rats. [PsychArxiv.](https://osf.io/preprints/psyarxiv/4fnjz_v1)
    
-- Desender, K., & Verguts, T. (2024). Decision confidence and outcome variability optimally regulate separate aspects of decision making. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2024.10.03.616475v1)
+- Xu, C., Mei, N., Dong W., Hu, R., Verguts T., & Chen, W. (2026). Orthogonal representational geometry in dACC underpins human hierarchical reasoning. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2025.11.16.688413v2.abstract)
 
-- Cogliati Dezza, I., Molinaro, G., & Verguts, T. (2024). When cognition overshadows affect, maladaptive information seeking arises. [PsychArxiv.](https://osf.io/preprints/psyarxiv/2yu9e)
-   
-- Dewaelle, H., Verguts, T., & Lesage, E. (2024). Validation of the Dutch version of the Creatures of Habit Scale (COHS): a self-report measure of the tendency for habitual behavior in daily life. [PsyArxiv.](https://osf.io/preprints/psyarxiv/zwbpu)
+- Chen, H., Claeys, W., Ergo, K., Buc Calderon, C., & Verguts, T. (2026). Robust effects of signed prediction error on declarative memory. [Preprint.](https://osf.io/preprints/psyarxiv/sqjgz_v3)
+
 
 
 ## Recent publications
 
 
 2026: 
+
+- Reynders, J., Verguts, T., & Braem, S. (2026). Strategic variability in humans, pigeons, and rats. Psychological Review. [PsychArxiv version.](https://osf.io/preprints/psyarxiv/4fnjz_v1)
+
+- Xu., S., Verguts, T., & Braem, S. (2026). Cognitive flexibility versus stability via activation-based and weight-based adaptations. Communications Psychology. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/w8meh_v1) 
 
 - Le Denmat, P., Desender, K., & Verguts, T. (2026). Learning to be confident: How agents learn confidence based on prediction errors. Cognition. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/2kqyf_v1)
 
@@ -46,6 +45,12 @@
 
 
 2024: 
+
+- Desender, K., & Verguts, T. (2024). Decision confidence and outcome variability optimally regulate separate aspects of decision making. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2024.10.03.616475v1)
+
+- Cogliati Dezza, I., Molinaro, G., & Verguts, T. (2024). When cognition overshadows affect, maladaptive information seeking arises. [PsychArxiv.](https://osf.io/preprints/psyarxiv/2yu9e)
+   
+- Dewaelle, H., Verguts, T., & Lesage, E. (2024). Validation of the Dutch version of the Creatures of Habit Scale (COHS): a self-report measure of the tendency for habitual behavior in daily life. [PsyArxiv.](https://osf.io/preprints/psyarxiv/zwbpu)
 
 - Le Denmat, P, Verguts, T., & Desender, K. (2024). A low-dimensional approximation of optimal confidence. [PLoS: Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012273) [BioArxiv version.](https://www.biorxiv.org/content/10.1101/2023.03.15.532729v1)
 
