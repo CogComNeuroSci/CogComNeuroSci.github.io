@@ -1,21 +1,15 @@
 <font color='white'>filler text</font>
 
-## Book
-
-- Verguts, T. (2022). Introduction to modeling cognitive processes. [MIT Press](https://mitpress.mit.edu/books/introduction-modeling-cognitive-processes) [GitHub](https://github.com/CogComNeuroSci/modeling-master)
-
-<div align = "center">
-  <img src="/images/MCP_cover.jpg" alt="MCP book cover" max-width="50%" height="auto" align="center" hspace="10" vspace="10">
-</div>    
 
 ## Recent preprints
 
+- Zhang, X. K., Senoussi, M., & Verguts, T. (2026). Attention to task structure for cognitive flexibility. [arXiv.](https://arxiv.org/abs/2604.13281)
    
 - Xu, M., Badaya, E., Senoussi, M., & Verguts, T. (2026). Rhythmicity revisited: Evidence from robust behavioral oscillations. [BioArxiv.](https://www.biorxiv.org/content/10.64898/2025.12.24.696378v1.abstract)
 
 - Xu, C., Mei, N., Dong W., Hu, R., Verguts T., & Chen, Q. (2026). Orthogonal representational geometry in dACC underpins human hierarchical reasoning. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2025.11.16.688413v2.abstract)
 
-- Chen, H., Claeys, W., Ergo, K., Buc Calderon, C., & Verguts, T. (2026). Robust effects of signed prediction error on declarative memory. [Preprint.](https://osf.io/preprints/psyarxiv/sqjgz_v3)
+- Chen, H., Claeys, W., Ergo, K., Buc Calderon, C., & Verguts, T. (2026). Robust effects of signed prediction error on declarative memory. [PsyArxiv.](https://osf.io/preprints/psyarxiv/sqjgz_v3)
 
 
 
@@ -24,7 +18,7 @@
 
 2026: 
 
-- Reynders, J., Verguts, T., & Braem, S. (2026). Strategic variability in humans, pigeons, and rats. Psychological Review. [PsychArxiv version.](https://osf.io/preprints/psyarxiv/4fnjz_v1)
+- Reynders, J., Verguts, T., & Braem, S. (2026). Strategic variability in humans, pigeons, and rats. Psychological Review. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/4fnjz_v1)
 
 - Xu., S., Verguts, T., & Braem, S. (2026). Cognitive flexibility versus stability via activation-based and weight-based adaptations. Communications Psychology. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/w8meh_v1) 
 
@@ -39,9 +33,9 @@
 
 - Chen, H., Verbeke, P., Mattioni, S., Calderon, C. B., & Verguts, T. (2025). Neural and computational evidence for a predictive learning account of the testing effect. Proceedings of the National Academy of Sciences. [BioArxiv version.](https://doi.org/10.1101/2025.03.17.643739)
 
-- Goetmaeckers, F., Goris, J., Wiersema, J. R., Verguts, T., & Braem, S. (2025). Different exploration strategies along the autism spectrum: Diverging effects of autism diagnosis and autism traits. Molecular Autism. [PsychArxiv version.](https://osf.io/3mvxk_v1)
+- Goetmaeckers, F., Goris, J., Wiersema, J. R., Verguts, T., & Braem, S. (2025). Different exploration strategies along the autism spectrum: Diverging effects of autism diagnosis and autism traits. Molecular Autism. [PsyArxiv version.](https://osf.io/3mvxk_v1)
 
-- Verbeke, P., De Walsche, M., Maelfait, P., & Verguts, T. (2025). Testing the limits of human flexibility. Journal of Experimental Psychology: General. [PsychArxiv version.](https://osf.io/preprints/psyarxiv/hgfsq_v1)
+- Verbeke, P., De Walsche, M., Maelfait, P., & Verguts, T. (2025). Testing the limits of human flexibility. Journal of Experimental Psychology: General. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/hgfsq_v1)
 
 - Chen, H., Hauspie, C., Ergo, K., Calderon, C. B., & Verguts, T. (2025). Prediction error as the basis of the testing effect [Communications Psychology.](https://www.nature.com/articles/s44271-025-00200-1) [Brief summary.](https://communities.springernature.com/posts/predictive-learning-as-the-basis-of-the-testing-effect?utm_source=like_mailer&utm_medium=email&utm_campaign=notify_contributor_about_like) [PsyArxiv version.](https://osf.io/preprints/psyarxiv/ar5yd/)
 
@@ -50,7 +44,7 @@
 
 - Desender, K., & Verguts, T. (2024). Decision confidence and outcome variability optimally regulate separate aspects of decision making. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2024.10.03.616475v1)
 
-- Cogliati Dezza, I., Molinaro, G., & Verguts, T. (2024). When cognition overshadows affect, maladaptive information seeking arises. [PsychArxiv.](https://osf.io/preprints/psyarxiv/2yu9e)
+- Cogliati Dezza, I., Molinaro, G., & Verguts, T. (2024). When cognition overshadows affect, maladaptive information seeking arises. [PsyArxiv.](https://osf.io/preprints/psyarxiv/2yu9e)
    
 - Dewaelle, H., Verguts, T., & Lesage, E. (2024). Validation of the Dutch version of the Creatures of Habit Scale (COHS): a self-report measure of the tendency for habitual behavior in daily life. [PsyArxiv.](https://osf.io/preprints/psyarxiv/zwbpu)
 
@@ -128,6 +122,14 @@
 - Desender, K., Donner, T. H., & Verguts, T. (2021). Dynamic expressions of confidence within an evidence accumulation framework. [Cognition](https://doi.org/10.1016/j.cognition.2020.104522) (207).
 
 - Goris, J., Silvetti, M., Verguts, T., Wiersema, J. R., Brass, M., & Braem, S. (2021). Autistic traits are related to worse performance in a volatile reward learning task despite adaptive learning rates. [Autism](https://doi.org/10.1177/1362361320962237), 25, 440-451.
+
+## Book
+
+- Verguts, T. (2022). Introduction to modeling cognitive processes. [MIT Press](https://mitpress.mit.edu/books/introduction-modeling-cognitive-processes) [GitHub](https://github.com/CogComNeuroSci/modeling-master)
+
+<div align = "center">
+  <img src="/images/MCP_cover.jpg" alt="MCP book cover" max-width="50%" height="auto" align="center" hspace="10" vspace="10">
+</div>    
 
 
 ## Archive
