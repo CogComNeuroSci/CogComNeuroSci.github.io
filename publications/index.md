@@ -3,14 +3,13 @@
 
 ## Recent preprints
 
+- Goetmaeckers, F., Wu, C,, Verguts, T., & Braem, S. (2026). Environment-sensitive generalization and exploration strategies. [PsyArxiv.](https://osf.io/preprints/psyarxiv/35gvn_v1)
+  
+- Reynders, J., Verguts, T., & Braem, S. (2026). Diverse mechanisms of adaptive variability in human behavior. [PsyArxiv.](https://osf.io/preprints/psyarxiv/9wsxa_v1) 
+
 - Zhang, X. K., Senoussi, M., & Verguts, T. (2026). Attention to task structure for cognitive flexibility. [arXiv.](https://arxiv.org/abs/2604.13281)
    
-- Xu, M., Badaya, E., Senoussi, M., & Verguts, T. (2026). Rhythmicity revisited: Evidence from robust behavioral oscillations. [BioArxiv.](https://www.biorxiv.org/content/10.64898/2025.12.24.696378v1.abstract)
-
-- Xu, C., Mei, N., Dong W., Hu, R., Verguts T., & Chen, Q. (2026). Orthogonal representational geometry in dACC underpins human hierarchical reasoning. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2025.11.16.688413v2.abstract)
-
 - Chen, H., Claeys, W., Ergo, K., Buc Calderon, C., & Verguts, T. (2026). Robust effects of signed prediction error on declarative memory. [PsyArxiv.](https://osf.io/preprints/psyarxiv/sqjgz_v3)
-
 
 
 ## Recent publications
@@ -18,9 +17,15 @@
 
 2026: 
 
+- Xu, C., Mei, N., Dong W., Hu, R., Verguts T., & Chen, Q. (2026). Orthogonal representational geometry in dACC underpins human hierarchical reasoning. Cell Reports. [BioArxiv.](https://www.biorxiv.org/content/10.1101/2025.11.16.688413v2.abstract)
+
+- Xu, S., Wen, T., Egner, T., Verguts, T., & Braem, S. (2026). Learning and using different task update strategies requires extensive practice. Cognitive Science.
+ 
+- Xu, M., Badaya, E., Senoussi, M., & Verguts, T. (2026). Rhythmicity revisited: Evidence from robust behavioral oscillations. [Communications Psychology.](https://www.nature.com/articles/s44271-026-00500-0) [BioArxiv version.](https://www.biorxiv.org/content/10.64898/2025.12.24.696378v1.abstract)
+
 - Reynders, J., Verguts, T., & Braem, S. (2026). Strategic variability in humans, pigeons, and rats. Psychological Review. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/4fnjz_v1)
 
-- Xu., S., Verguts, T., & Braem, S. (2026). Cognitive flexibility versus stability via activation-based and weight-based adaptations. Communications Psychology. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/w8meh_v1) 
+- Xu., S., Verguts, T., & Braem, S. (2026). Cognitive flexibility versus stability via activation-based and weight-based adaptations. [Communications Psychology.](https://www.nature.com/articles/s44271-026-00397-9) [PsyArxiv version.](https://osf.io/preprints/psyarxiv/w8meh_v1)
 
 - Le Denmat, P., Desender, K., & Verguts, T. (2026). Learning to be confident: How agents learn confidence based on prediction errors. Cognition. [PsyArxiv version.](https://osf.io/preprints/psyarxiv/2kqyf_v1)
 
