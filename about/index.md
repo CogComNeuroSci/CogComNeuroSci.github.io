@@ -79,4 +79,4 @@ In my internship, I investigate perceptual cycles in human vision using EEG, sup
 
 ---
 
-Please [get in contact](mailto:Tom.Verguts@UGent.be?Subject=Internship%20or%20Research%20stay) if you are interested in a research stay or an internship in our lab. Want to see who used to work at our lab? Find a list of our previous lab members [here](/alumni/).
+Please [get in contact](mailto:Tom.Verguts@UGent.be?Subject=Internship%20or%20Research%20stay) if you are interested in a research stay or an internship in our lab. 
