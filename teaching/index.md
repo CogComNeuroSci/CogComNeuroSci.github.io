@@ -1,5 +1,5 @@
 
-We provide courses at the Department of Experimental Psychology, namely...
+We provide courses at the Department of General and Applied Psychology, namely...
 - [Instruments of Experimental Psychology](https://studiegids.ugent.be/2020/EN/studiefiches/H002370.pdf) (aka PsychoPy)
 - [Modeling of Cognitive Processes](https://studiegids.ugent.be/2020/EN/studiefiches/H002000.pdf) (aka modeling)
 
