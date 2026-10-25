@@ -16,7 +16,7 @@
 
 ### Tom Verguts
 
-<img src="/images/profile_pic_tom.png" alt="Tom Verguts" max-width="50%" height="200px" align="left" hspace="10" vspace="10">
+<img src="/images/profile_pic_tom.png" alt="Tom Verguts" max-width="50%" height="200p" align="left" hspace="10" vspace="10">
 
 __Personal statement__   
 Humans are biological agents. Thus, behavior is generally adaptive, meaning that it aims to optimise some goal function (e.g., to minimise error or to maximise reward). At the same time, humans live in rapidly changing environments, so this ideal will often not be reached.
