@@ -19,11 +19,8 @@
 <img src="/images/none" alt="Tom Verguts" max-width="50%" height="100px" align="left" hspace="10" vspace="10">
 
 __Personal statement__   
-Humans are biological agents. Thus, behavior is generally adaptive, meaning that it aims to optimise some goal function (e.g., to minimise error or to maximise reward). At the same time, humans live in rapidly changing environments, so this ideal will often not be reached.
+How do humans learn? And how can they do that so efficiently, despite noisy, sparse, and inconsistent feedback? A key theme in the lab is that meta-learning is an import piece of this puzzle: While learning a task, one is simultaneously already setting the parameters for learning the next one. Because we live in an environment where we switch between tasks with significant overlap, this is an efficient learning strategy. To address such questions, we believe that multiple levels of analysis should be combined: Computational, behavioral, and neural. Thus, we adopt a cognitive computational neuroscience approach.
 
-From this perspective, human behavior is often not optimal, but humans learn to gradually achieve their goal (function). In summary, humans learn adaptive behavior, and this defines the topic of our research group.
-
-Although this is a fairly broad topic, there are a few recurring themes, such as learning to use inter-areal synchrony for neural communication; learning what to store in declarative memory; and learning the (meta-)parameters of decision processes. For this research, we use behavioral, computational, and neural methods.
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="Tom.Verguts@UGent.be" href="mailto:Tom.Verguts@UGent.be" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/mail_32x32.jpg" style="width:2em;margin-right:.5em;" alt="Mail icon">Tom.Verguts@UGent.be</a></div>
 
