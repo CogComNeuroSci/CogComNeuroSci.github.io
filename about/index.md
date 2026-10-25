@@ -21,7 +21,7 @@
 __Personal statement__   
 How do humans learn? And how can they do that so efficiently, despite noisy, sparse, and inconsistent feedback? A key theme in the lab is that meta-learning is an import piece of this puzzle: While learning a task, one is simultaneously already setting the parameters for learning the next one. Because we live in an environment where we switch between tasks with significant overlap, this is an efficient learning strategy. To address such questions, we believe that multiple levels of analysis should be combined: Computational, behavioral, and neural. Thus, we adopt a cognitive computational neuroscience approach.
 
-
+<br/> <br/>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="Tom.Verguts@UGent.be" href="mailto:Tom.Verguts@UGent.be" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/mail_32x32.jpg" style="width:2em;margin-right:.5em;" alt="Mail icon">Tom.Verguts@UGent.be</a></div>
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://github.com/tomverguts" href="https://github.com/tomverguts" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="/images/github_32x32.jpg" style="width:2em;margin-right:.5em;" alt="GitHub icon">@tomverguts</a></div>
