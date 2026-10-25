@@ -16,7 +16,7 @@
 
 ### Tom Verguts
 
-<img src="/images/profile_pic_tom.png" alt="Tom Verguts" max-width="50%" height="200p" align="left" hspace="10" vspace="10">
+<img src="/images/profile_pic_tom.png" alt="Tom Verguts" max-width="50%" height="100px" align="left" hspace="10" vspace="10">
 
 __Personal statement__   
 Humans are biological agents. Thus, behavior is generally adaptive, meaning that it aims to optimise some goal function (e.g., to minimise error or to maximise reward). At the same time, humans live in rapidly changing environments, so this ideal will often not be reached.
@@ -70,7 +70,7 @@ Currently, we have no visiting researchers working in our lab.
 # Internship students
 
 ### Jelle Goetschalckx
-<img src="/images/profile_pic_jelle.jpg" alt="Jelle Goetschalckx" max-width="50%" height="200px" align="left" hspace="10" vspace="10">
+<img src="/images/profile_pic_jelle.jpg" alt="Jelle Goetschalckx" max-width="50%" height="100px" align="left" hspace="10" vspace="10">
 
 In my internship, I investigate perceptual cycles in human vision using EEG, supervised by Raquel London and Tom Verguts. Specifically, we want to find out whether visual processing is divided into discrete snapshots, just like a movie consists of frames, or whether this is more of a continuous process. This discrete view has historically gained much support from evidence linking perception to alpha band activity, but more recent research is pointing towards a continuous account. Building on this debate, we will also investigate whether individual (psychophysical) differences, such as neural noise, shape this process. Beyond this project, I am also particularly interested in designing intricate experimental designs, coding, and data visualization. Aside from academia, I enjoy playing bass guitar, playing boardgames, and chatting about anything interesting!
 
